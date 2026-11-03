@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 62b0ded2a4f0c8a4ebf6c2611936c4cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3578339875142865939
+    second: SmallAsteroid_0
+  - first:
+      213: -7822723212774991063
+    second: SmallAsteroid_1
+  - first:
+      213: 2730285780439381497
+    second: SmallAsteroid_2
+  - first:
+      213: -7487627705328812676
+    second: SmallAsteroid_3
+  - first:
+      213: -6432175762922486757
+    second: SmallAsteroid_4
+  - first:
+      213: 1486036097738893195
+    second: SmallAsteroid_5
+  - first:
+      213: -926224186861500122
+    second: SmallAsteroid_6
+  - first:
+      213: 8128096367348028288
+    second: SmallAsteroid_7
+  - first:
+      213: 8316750890336087411
+    second: SmallAsteroid_8
+  - first:
+      213: -3568197051395323220
+    second: SmallAsteroid_9
+  - first:
+      213: 8516751986364139056
+    second: SmallAsteroid_10
+  - first:
+      213: 5075448720787536554
+    second: SmallAsteroid_11
+  - first:
+      213: -8451899547710088627
+    second: SmallAsteroid_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallAsteroid_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 206
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6e78a7de275ec0800000000000000
+      internalID: -3578339875142865939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 226
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b185e3faa107390800000000000000
+      internalID: -7822723212774991063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b36e937ce3e520800000000000000
+      internalID: 2730285780439381497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 223
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db08de54a961890800000000000000
+      internalID: -7487627705328812676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 205
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c02609325cb6a0800000000000000
+      internalID: -6432175762922486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 146
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87622125f57f9410800000000000000
+      internalID: 1486036097738893195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 158
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629ceb762046523f0800000000000000
+      internalID: -926224186861500122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0831ce3e49cccc070800000000000000
+      internalID: 8128096367348028288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 114
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d65e7eed80b6370800000000000000
+      internalID: 8316750890336087411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 84
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa4cf6dfa73b7ec0800000000000000
+      internalID: -3568197051395323220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364653dec4913670800000000000000
+      internalID: 8516751986364139056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 25
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa704e78bd9f6640800000000000000
+      internalID: 5075448720787536554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAsteroid_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 29
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a94753422d4ba80800000000000000
+      internalID: -8451899547710088627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SmallAsteroid_0: -3578339875142865939
+      SmallAsteroid_1: -7822723212774991063
+      SmallAsteroid_10: 8516751986364139056
+      SmallAsteroid_11: 5075448720787536554
+      SmallAsteroid_12: -8451899547710088627
+      SmallAsteroid_2: 2730285780439381497
+      SmallAsteroid_3: -7487627705328812676
+      SmallAsteroid_4: -6432175762922486757
+      SmallAsteroid_5: 1486036097738893195
+      SmallAsteroid_6: -926224186861500122
+      SmallAsteroid_7: 8128096367348028288
+      SmallAsteroid_8: 8316750890336087411
+      SmallAsteroid_9: -3568197051395323220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
