@@ -470,9 +470,8 @@ public class GameController : MonoBehaviour
 
         // you just need to return the fitness of ONE ship (given by _index) not all ships
 
-        float score = 1;
 
-        return score;
+        return allShips[_index].GetCollisions(); ;
     }
 
 

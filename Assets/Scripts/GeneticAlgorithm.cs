@@ -132,13 +132,9 @@ public class GeneticAglorithm<T>
 
         // the function should return one member of the population to be used as a parent when creating the next generation
 
-      
+        int randomIndex = random.Next(Population.Count - (Population.Count / 2));
+        var chosenParent = Population[randomIndex];
 
-        
-        int randomIndex = random.Next(Population.Count);
-
-        return Population[randomIndex];
-
-
+        return chosenParent;
     }
 }

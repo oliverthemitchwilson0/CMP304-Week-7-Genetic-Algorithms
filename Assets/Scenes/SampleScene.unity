@@ -2903,7 +2903,7 @@ MonoBehaviour:
   yAsteroidBound: 9
   mutationRate: 0.01
   populationSize: 100
-  simTimeScale: 5
+  simTimeScale: 90
   asteroidPrefab: {fileID: 4977015956538448128, guid: 2af1033578b47cb498aaa12269b2431a, type: 3}
   shipPrefab: {fileID: 7832518768630171045, guid: 04f8c3ca49596de44830f0b7abcec98d, type: 3}
   shipSpawnPoint: {fileID: 976211064}

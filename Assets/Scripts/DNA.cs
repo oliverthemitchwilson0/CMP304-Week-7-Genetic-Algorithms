@@ -73,6 +73,7 @@ public class DNA<T>
         // - the first parents genes array can be accessed via 'Genes' 
         // - the second parents genes array can be accessed via  otherParent.Genes
         // - access the child genes array by child.Genes
+
         
         // use 'random.Next()' or 'random.NextDouble()' for any random numbers used in the process
         // e.g. 'if(random.NextDouble() < 0.5 )'
@@ -84,11 +85,18 @@ public class DNA<T>
 
         // TEMP CODE - will simply make a child an exact match of one parent
         // Modify this code following instructions above
-        for (int i = 0; i < Genes.Length; i++)
+        var parent1 = Genes;
+        var parent2 = otherParent.Genes;
+
+        for (int i = 0; i < 40; i++)
         {
-            child.Genes[i] = Genes[i];
+            child.Genes[i] = parent1[i];
         }
 
+        for (int i = 40; i < 81; i++)
+        {
+            child.Genes[i] = parent2[i];
+        }
 
         // return the child DNA
         return child;
